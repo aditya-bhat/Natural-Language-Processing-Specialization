@@ -8,8 +8,8 @@ The Specialization contains four courses which can be taken on [Coursera](https:
 
 1. [Natural Language Processing with Classification and Vector Spaces](https://github.com/aditya-bhat/Natural-Language-Processing-Specialization/tree/master/1.%20Natural%20Language%20Processing%20with%20Classification%20and%20Vector%20Spaces)
 2. [Natural Language Processing with Probabilistic Models](https://github.com/aditya-bhat/Natural-Language-Processing-Specialization/tree/master/2.%20Natural%20Language%20Processing%20with%20Probabilistic%20Models)
-3. [Natural Language Processing with Sequence Models]
-4. [Natural Language Processing with Attention Models]
+3. [Natural Language Processing with Sequence Models](https://github.com/aditya-bhat/Natural-Language-Processing-Specialization/tree/master/3.%20Natural%20Language%20Processing%20with%20Sequence%20Models)
+4. [Natural Language Processing with Attention Models](https://github.com/aditya-bhat/Natural-Language-Processing-Specialization/tree/master/4.%20Natural%20Language%20Processing%20with%20Attention%20Models)
 
 ## About This Specialization
 
