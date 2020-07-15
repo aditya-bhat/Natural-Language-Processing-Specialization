@@ -6,7 +6,7 @@ This repository contains my submissions on the [DeepLearning.ai](https://deeplea
 
 The Specialization contains four courses which can be taken on [Coursera](https://www.coursera.org/specializations/natural-language-processing). The four courses are:
 
-1. [Natural Language Processing with Classification and Vector Spaces]
+1. [Natural Language Processing with Classification and Vector Spaces](https://github.com/aditya-bhat/Natural-Language-Processing-Specialization/tree/master/1.%20Natural%20Language%20Processing%20with%20Classification%20and%20Vector%20Spaces)
 2. [Natural Language Processing with Probabilistic Models]
 3. [Natural Language Processing with Sequence Models]
 4. [Natural Language Processing with Attention Models]
