@@ -35,3 +35,5 @@ Enjoy!
 ### Certificates
 
 1. [Natural Language Processing with Classification and Vector Spaces](https://www.coursera.org/account/accomplishments/certificate/N8ZAT64BYERS)
+
+2. [Natural Language Processing with Probabilistic Models](https://www.coursera.org/account/accomplishments/certificate/R3837HRY6SU2)
